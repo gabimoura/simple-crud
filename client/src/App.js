@@ -38,7 +38,7 @@ function App() {
 
   return (
     <div className="App">
-      <div className="information">
+      <div>
         <h2>Team management</h2>
         <label>Name:</label>
         <input
